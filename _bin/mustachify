@@ -1,0 +1,17 @@
+#!/bin/bash
+#mustachify <olympiad dir>
+#
+#Takes the mustache template for the olympiads page, and the json
+#metadata conained in <olympiad dir> and prints a markdown version of
+#the page.
+#
+#You should have `mustache` somewhere in your $PATH to use this program.
+
+BIN=`dirname $0`
+ROOT=`dirname $BIN`
+
+TEMPLATE="$ROOT/_templates/olympiad.mustache.md"
+
+
+target="$1/`basename $1`.json"
+mustache "$target" "$TEMPLATE"

@@ -1,0 +1,12 @@
+# Site settings
+title: Olimpiadas de física del mundo
+email: garciamx@gmail.com
+description: "Exámenes de las olimpiadas de física"
+baseurl: ""
+url: "http://ixxra.github.io"
+twitter_username: renegarxia
+github_username:  ixxra
+
+# Build settings
+markdown: kramdown
+permalink: pretty
