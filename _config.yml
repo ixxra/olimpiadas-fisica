@@ -2,8 +2,8 @@
 title: Olimpiadas de física del mundo
 email: garciamx@gmail.com
 description: "Exámenes de las olimpiadas de física"
-baseurl: "olimpiadas-fisica"
-url: "http://ixxra.github.io"
+baseurl: "/olimpiadas-fisica"
+url: ""
 twitter_username: renegarxia
 github_username:  ixxra
 
