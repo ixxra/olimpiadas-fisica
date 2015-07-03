@@ -2,6 +2,7 @@
 layout: page
 title: Olimpiadas Asiaticas de fisica
 abbrev: APhO
+comments: true
 ---
 
 1. [2013 Bogor, Indonesia](pdf/apho2013.pdf)

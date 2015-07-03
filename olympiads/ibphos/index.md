@@ -2,6 +2,7 @@
 layout: page
 title: Olimpiadas Iberoamericanas de Fisica
 abbrev: IbPho
+comments: true
 ---
 
 1. [2010 Ciudad de Panamá, Panama](pdf/ibpho2010.pdf)

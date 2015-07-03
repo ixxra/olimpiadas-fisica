@@ -2,6 +2,7 @@
 layout: page
 title: Olimpiadas Mexicanas de Fisica
 abbrev: MxPhO
+comments: true
 ---
 
 1. [2011 Guadalajara, Jalisco](pdf/mx2011.pdf)

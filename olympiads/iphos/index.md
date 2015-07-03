@@ -2,6 +2,7 @@
 layout: page
 title: Olimpiadas Internacionales de Fisica
 abbrev: IPhO
+comments: true
 ---
 
 1. [2013 Copenhagen, Denmark](pdf/ipho2013.pdf)
